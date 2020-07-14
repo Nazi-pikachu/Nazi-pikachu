@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Web dvelopement
-Please visit these file to see some of my works
-frozen-caverns-17101.herokuapp.com/
+-Please visit these file to see some of my works
+-frozen-caverns-17101.herokuapp.com/
 <!--
 **Nazi-pikachu/Nazi-pikachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
