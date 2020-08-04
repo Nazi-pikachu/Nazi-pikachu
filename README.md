@@ -1,4 +1,4 @@
-### Hi there, I'm Rishabh Jain - aka [To visit my site](https://nazi-pikachu.github.io/Portfolio/)
+### Hi there, I'm Rishabh Jain - [visit my site](https://nazi-pikachu.github.io/Portfolio/)
 
 ## I'm a self taught Developer !!!
 - 🔭 I’m currently working on web development
@@ -13,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rishabhjain181/)
 
 <br />
----
 
 ### Languages and Tools:
 
