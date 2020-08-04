@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishabh Jain - [visit my site](https://nazi-pikachu.github.io/Portfolio/)
 
-## I'm a self taught Developer !!!
+## I'm a self taught Developer and an avid gamer !!!
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
