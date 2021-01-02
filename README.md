@@ -42,6 +42,9 @@ Comming soon!
 
 <img align="left" alt="Nazi-pikachu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nazi-pikachu&show_icons=true&hide_border=true" />
 
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=Nazi-pikachu&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<br/>**Thanks for contributing to this =>**
+![](https://komarev.com/ghpvc/?username=Nazi-pikachu&color=yellow)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY2MzE0NzMwNF19
 -->
