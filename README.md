@@ -1,10 +1,10 @@
 ### Hi there, I'm Rishabh Jain - [visit my site](https://nazi-pikachu.github.io/Portfolio/)
 
 ## I'm a self taught Developer and an avid gamer !!!
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on backend and devops
+- 🌱 I’m currently learning microservices and databses
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and explore the world through books
+- ⚡ Fun fact: I love to read , write and think
 
 ### Connect with me:
 
